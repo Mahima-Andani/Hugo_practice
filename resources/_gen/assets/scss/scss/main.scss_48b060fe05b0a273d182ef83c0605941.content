@@ -1,0 +1,1 @@
+header{display:flex;justify-content:center;align-items:center}header a{display:flex;text-decoration:none}header a .header__logo{width:5%}header a .header__title{color:#000}
